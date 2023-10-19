@@ -15,6 +15,8 @@ All data used in this paper are publicly available and can be accessed here:
 You can also download the processed data from https://zenodo.org/record/7490623#.Y60PTnZBxD8
 
 ## Requirements:
+* conda install pymol and openbabel- https://github.com/guaguabujianle/GIGN/issues/2
+  
 matplotlib==3.3.4  
 networkx==2.5  
 numpy==1.19.2  
