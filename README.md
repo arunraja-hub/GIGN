@@ -13,6 +13,7 @@ All data used in this paper are publicly available and can be accessed here:
 - PDBbind v2016 and v2019: http://www.pdbbind.org.cn/download.php  
 - 2013 and 2016 core sets: http://www.pdbbind.org.cn/casf.php  
 You can also download the processed data from https://zenodo.org/record/7490623#.Y60PTnZBxD8
+* wget from https://zenodo.org/records/7490623/files/GIGN_data.zip
 
 ## Requirements:
 * conda install pymol and openbabel- https://github.com/guaguabujianle/GIGN/issues/2
