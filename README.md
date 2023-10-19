@@ -8,6 +8,7 @@ EGNN: https://github.com/vgsatorras/egnn
 RF-Score: The RF-Score features are extracted using OODT: https://github.com/oddt/oddt, we already provide the processed data in ./RF-Score/feature so that the project can be run directly.    
 Each baseline directory has a requirement.txt listing the version of the packages.  
 
+PyG DP: https://github.com/pyg-team/pytorch_geometric/blob/master/examples/multi_gpu/data_parallel.py#L44
 ## Dataset:
 All data used in this paper are publicly available and can be accessed here:  
 - PDBbind v2016 and v2019: http://www.pdbbind.org.cn/download.php  
